@@ -1,5 +1,5 @@
 # Neural_encoding
-in this project, we use different methods to decrease dimension of neural data, then we used these structures and encoded signals to predict other correlated signals.
+in this project, we use different methods( PCA, NMF, MLP autoencoder and LSTM autoencoder) to decrease dimension of neural data, then we used these structures and encoded signals to predict other correlated signals.
 for more information about dataset please visit:
 https://github.com/KordingLab/Neural_Decoding
 
